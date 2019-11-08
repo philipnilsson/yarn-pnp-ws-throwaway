@@ -1,0 +1,10 @@
+{
+  "name": "pkg2",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "installConfig": {
+    "pnp": true
+  }
+}

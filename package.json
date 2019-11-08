@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "installConfig": {
+    "pnp": true
+  },
+  "workspaces": [
+    "./pkg1",
+    "./pkg2"
+  ]
+}
